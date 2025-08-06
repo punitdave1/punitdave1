@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/punit-dave/](https://www.linkedin.com/in/punit-dave/)
 
-- ⚡ Fun fact **I’ve worked on listed derivatives at Goldman Sachs—and still found time to learn Python at nigh**
+- ⚡ Fun fact **I’ve worked on listed derivatives at Goldman Sachs—and still found time to learn Python at night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
