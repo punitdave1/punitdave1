@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **portfolio of end-to-end projects in Python,SQL,Power BI**
 
-- 🌱 I’m currently learning **I’m currently learning how to combine finance, tech, and storytelling to stand out.**
+- 🌱 I’m currently learning **how to combine finance, tech, and storytelling to stand out.**
 
 - 👯 I’m looking to collaborate on **finance or business analysis projects using Python,Excel,SQL or Power BI**
 
