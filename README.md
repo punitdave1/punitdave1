@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punit Dave</h1>
-<h3 align="center">🎓 MBA in Finance | Python & Excel Enthusiast | Aspiring Business Analyst</h3>
+<h3 align="center">🎓 MBA in Finance & Marketing | Python & Excel Enthusiast | Aspiring Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitdave1&label=Profile%20views&color=0e75b6&style=flat" alt="punitdave1" /> </p>
 
