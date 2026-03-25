@@ -1,44 +1,128 @@
-<h1 align="center">Hi 👋, I'm Punit Dave</h1>
-<h3 align="center">🎓 MBA in Finance & Marketing | Python & Excel Enthusiast | Aspiring Business Analyst</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punitdave1&label=Profile%20views&color=0e75b6&style=flat" alt="punitdave1" /> </p>
+<img src="https://komarev.com/ghpvc/?username=punitdave1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitdave1" alt="punitdave1" /></a> </p>
+# Punit Dave
+### Finance & Operations | Goldman Sachs Alumni | Power BI · SQL · Python
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punit-dave/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://punitdave1.github.io/punitdave)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/punit.dave)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punitdave000@gmail.com)
 
-- 🔭 I’m currently working on **portfolio of end-to-end projects in Python,SQL,Power BI**
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitdave1&margin-w=8&no-frame=true" alt="trophies" /></a>
 
-- 🌱 I’m currently learning **how to combine finance, tech, and storytelling to stand out.**
+</div>
 
-- 👯 I’m looking to collaborate on **finance or business analysis projects using Python,Excel,SQL or Power BI**
+---
 
-- 🤝 I’m looking for help with **landing a business/data analyst role in top companies**
+## 👋 About Me
 
-- 👨‍💻 All of my projects are available at [github.com/punitdave1](github.com/punitdave1)
+Finance & Operations professional with experience at **Goldman Sachs** (FCO Listed Derivatives) and **Genpact** (Google Pay / UPI Operations). I work at the intersection of trade lifecycle, data analytics, and process automation — and I'm building **DataEdge BI Solutions**, a BI consulting venture for BFSI clients.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/punit-dave/](https://www.linkedin.com/in/punit-dave/)
+- 🏦 Ex-Goldman Sachs · FCO Listed Derivatives — trade lifecycle, reconciliation, settlement
+- 📊 Founder @ [DataEdge BI Solutions](https://punitdave1.github.io/punitdave) — Power BI dashboards for BFSI
+- 🎓 MBA in Finance & Marketing
+- 📍 Hyderabad, India
 
-- 💬 Ask me about **Python for finance, data automation, or analysis**
+---
 
-- 📫 How to reach me **punitdave697@gmail.com**
+## 🛠 Tech Stack
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/punit-dave/](https://www.linkedin.com/in/punit-dave/)
+**Data & Analytics**
 
-- ⚡ Fun fact **I’ve worked on listed derivatives at Goldman Sachs—and still found time to learn Python at night**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/punit-dave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punit-dave/" height="30" width="40" /></a>
-<a href="https://instagram.com/punit.dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punit.dave" height="30" width="40" /></a>
-<a href="https://discord.gg/punitdave#2823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="punitdave#2823" height="30" width="40" /></a>
-</p>
+**Finance & Operations**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+![Trade Lifecycle](https://img.shields.io/badge/Trade%20Lifecycle-1a1a2e?style=flat-square)
+![Reconciliation](https://img.shields.io/badge/Reconciliation-1a1a2e?style=flat-square)
+![Listed Derivatives](https://img.shields.io/badge/Listed%20Derivatives-1a1a2e?style=flat-square)
+![UPI%20%2F%20Payments](https://img.shields.io/badge/UPI%20%2F%20Payments-1a1a2e?style=flat-square)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punitdave1&show_icons=true&locale=en&layout=compact" alt="punitdave1" /></p>
+**Tools**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punitdave1&show_icons=true&locale=en" alt="punitdave1" /></p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punitdave1&" alt="punitdave1" /></p>
+---
+
+## 📂 Featured Projects
+
+### 🔷 [Trade Reconciliation Dashboard — Power BI](https://punitdave1.github.io/punitdave)
+> Simulates a T+1 reconciliation workflow for listed derivatives. Tracks breaks, aging, and settlement status across asset classes. Built using Power BI with DAX measures and drill-through pages.
+
+`Power BI` `DAX` `Trade Ops` `Financial Data`
+
+---
+
+### 🔷 [BFSI Operations KPI Tracker](https://punitdave1.github.io/punitdave)
+> End-to-end ops performance dashboard for a mock NBFC — covers loan disbursement TAT, delinquency buckets, and team SLA adherence. Designed for C-suite consumption.
+
+`Power BI` `Excel` `BFSI` `Operations Analytics`
+
+---
+
+### 🔷 [SQL: Financial Data Analysis Drills](https://github.com/punitdave1)
+> A curated set of SQL queries and case problems modeled on real finance ops scenarios — trade matching, position reconciliation, P&L attribution, and payment flows.
+
+`SQL` `PostgreSQL` `Finance Ops` `Window Functions`
+
+---
+
+### 🔷 [Python: Market Data Cleaner](https://github.com/punitdave1)
+> Script to clean, normalize, and validate raw market data feeds (CSV/JSON). Handles missing values, duplicate trades, and timestamp standardization. Built with Pandas + logging.
+
+`Python` `Pandas` `Data Engineering` `Finance`
+
+---
+
+### 🔷 [DataEdge BI Solutions — Client Portfolio](https://punitdave1.github.io/punitdave)
+> Business portfolio site for my BI consulting venture. Showcases service offerings, case studies, and client engagement model targeting BFSI firms.
+
+`Power BI` `Consulting` `BFSI` `DataEdge`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Punit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punitdave1&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punitdave1&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punitdave1&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+| Credential | Issuer | Status |
+|---|---|---|
+| Microsoft Power BI Data Analyst (PL-300) | Microsoft | In Progress |
+| Business Analysis Fundamentals | Microsoft | In Progress |
+| Goldman Sachs FCO Operations | On-the-job | ✅ Completed |
+| Bank of America IB Virtual Experience | Forage | ✅ Completed |
+| PwC Consulting Virtual Experience | Forage | ✅ Completed |
+
+---
+
+## 💬 Let's Connect
+
+I'm open to **Operations Analyst**, **Trade Support**, **Business Analyst (Ops track)**, and **BI Consulting** opportunities.
+
+📧 Reach out via [LinkedIn](https://linkedin.com/in/punitdave) or check out [my portfolio](https://punitdave1.github.io/punitdave).
+
+---
+
+<div align="center">
+<sub>Built with curiosity. Refined at Goldman Sachs.</sub>
+</div>
