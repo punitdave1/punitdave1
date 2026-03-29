@@ -93,8 +93,6 @@ Finance & Operations professional with experience at **Goldman Sachs** (FCO List
 
 <img src="https://github-stats-alpha.vercel.app/api?username=punitdave1&cc=000&tc=fff&ic=fff&bc=000" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitdave1&layout=compact&langs_count=6&hide=jupyter%20notebook&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=0d1117" />
-
 <img src="https://streak-stats.demolab.com?user=punitdave1&theme=github-dark&hide_border=true" />
 
 </div>
