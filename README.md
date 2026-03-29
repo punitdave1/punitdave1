@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/punit.dave)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punitdave000@gmail.com)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitdave1&margin-w=8&no-frame=true" alt="trophies" /></a>
-
 </div>
 
 ---
@@ -93,14 +91,13 @@ Finance & Operations professional with experience at **Goldman Sachs** (FCO List
 
 <div align="center">
 
-![Punit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punitdave1&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=punitdave1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punitdave1&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitdave1&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punitdave1&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=punitdave1&theme=github-dark&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🎓 Certifications & Learning
